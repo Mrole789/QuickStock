@@ -17,11 +17,6 @@ This system helps small to medium-sized retail businesses in Ghana manage their 
 - File-based Data Storage
 - Object-Oriented Programming
 
-### Installation & Setup
-1. Clone this repository
-2. Compile the Java files: `javac src/com/quickstock/Main.java`
-3. Run the application: `java -cp src com.quickstock.Main`
-
 ### Project Members
 - Chima Kennedy Elorm 
 - Semenu Leticia 
