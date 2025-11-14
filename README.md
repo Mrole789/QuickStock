@@ -1,4 +1,4 @@
-## QuickStock - Retail Management System
+## G2 QuickStock - Retail Management System
 
 A simple Java based inventory and sales management system for retail businesses.
 
